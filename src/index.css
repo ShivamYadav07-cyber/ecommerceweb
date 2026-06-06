@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 *{
   margin: 0;
 }
 
+=======
+>>>>>>> 9a0e5693bfc9fe7fc2fd8a942b4b17dd0d6173dc
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -9,7 +12,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+<<<<<<< HEAD
   font-family: poppins;
+=======
+>>>>>>> 9a0e5693bfc9fe7fc2fd8a942b4b17dd0d6173dc
 }
 
 code {
